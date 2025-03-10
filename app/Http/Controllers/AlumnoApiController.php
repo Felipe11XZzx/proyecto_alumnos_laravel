@@ -12,8 +12,8 @@ use function Pest\Laravel\json;
  *      version="2.0.0",
  *      description="Esta api permite interactuar con los alumnos de bd del instituto",
  *      @OA\Contact(
- *          name="Maria",
- *          email="mariacasas@gmail.com",
+ *          name="Felipe Ortiz",
+ *          email="felipe1111@gmail.com",
  *      ),
  *      @OA\License(
  *          name="MIT",
